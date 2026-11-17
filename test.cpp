@@ -74,8 +74,8 @@ int main()
 {
     Player User;
     User.SetName("Said");
-    User.SetHp();
-    User.SetSpeed();
+    User.SetHp(1);
+    User.SetSpeed(4);
     User.SetX(0);
     User.SetY(0);
     
