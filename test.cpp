@@ -74,9 +74,6 @@ int main()
 {
     Player User;
     User.SetName("Said");
-    std::cin >> 
-    std::cin >> 
-
     User.SetHp();
     User.SetSpeed();
     User.SetX(0);
